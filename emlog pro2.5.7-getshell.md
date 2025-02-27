@@ -4,7 +4,7 @@ EMLOG is a lightweight open-source blog and CMS website building system that is 
 
 # The affected version
 
-emlog pro 2.5.x
+emlog pro 2.5.7
 
 ## Vulnerability description
 
