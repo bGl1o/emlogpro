@@ -21,7 +21,7 @@ info.php
 ```
 
 ![image-20250227205653854](https://cdn.jsdelivr.net/gh/bGl1o/Pictures@img/202502272120239.png)
-
+template-exp.zip content
 ![image-20250301154124296](https://cdn.jsdelivr.net/gh/bGl1o/Pictures@img/202503011541580.png)
 
 upload template-exp.zip
