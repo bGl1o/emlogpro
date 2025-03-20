@@ -5,7 +5,7 @@ EMLOG is a lightweight open-source blog and CMS website building system that is 
 ### The affected version
 
 emlog pro 2.5.x
-
+Project address： https://github.com/emlog/emlog
 ## Vulnerability description
 
 Storage type XSS
